@@ -1,7 +1,7 @@
 <img alt="Logo" src="./logo.svg" style="padding-right:10px;" />
 
 # 👋 Hi, I am DG Rabaya.
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![visitors](https://vbr.wocr.tk/badge?page_id=thisismedg.thisismedg&color=00cf00&style=flat-square) [![Github Follow](https://img.shields.io/github/followers/thisismedg?label=Follow%20Me&style=social)](https://github.com/thisismedg)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![visitors](https://vbr.wocr.tk/badge?page_id=00X4447.00X4447&color=00cf00&style=flat-square) [![Github Follow](https://img.shields.io/github/followers/00X4447?label=Follow%20Me&style=social)](https://github.com/00X4447)
 
 I am deeply immersed in the world of web development and software engineering, driven by a passion for creating innovative solutions.
 
@@ -30,7 +30,7 @@ Currently pursuing my undergraduate degree, I am dedicated to learning and apply
 ## Github Stats
 
 <div style="display: grid; grid-template-columns: 1fR; grid-gap: 1rem;">
-<a href="https://stats.dooboo.io/api/github-stats-advanced?login=thisismedg"><img src="https://stats.dooboo.io/api/github-stats-advanced?v2&login=thisismedg" width="440" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?v2&user=thisismedg&theme=material-palenight&hide_border=false&v2" alt="thisismedg" height="171"/>
+<a href="https://stats.dooboo.io/api/github-stats-advanced?login=00X4447"><img src="https://stats.dooboo.io/api/github-stats-advanced?v2&login=00X4447" width="440" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?v2&user=00X4447&theme=material-palenight&hide_border=false&v2" alt="00X4447" height="171"/>
 </div>
 
