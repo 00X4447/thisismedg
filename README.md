@@ -1,7 +1,9 @@
 <img alt="Logo" src="./logo.svg" style="padding-right:10px;" />
 
 # 👋 Hi, I am DG Rabaya.
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) ![visitors](https://vbr.wocr.tk/badge?page_id=00X4447&color=00cf00&style=flat-square) [![Github Follow](https://img.shields.io/github/followers/00X4447?label=Follow%20Me&style=social)](https://github.com/00X4447)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+![visitors](https://vbr.wocr.tk/badge?page_id=00X4447&color=00cf00&style=flat-square) 
+[![Github Follow](https://img.shields.io/github/followers/00X4447?label=Follow%20Me&style=social)](https://github.com/00X4447)
 
 I am deeply immersed in the world of web development and software engineering, driven by a passion for creating innovative solutions.
 
